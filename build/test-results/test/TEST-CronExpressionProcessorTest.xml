@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CronExpressionProcessorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-03-31T22:34:39" hostname="C02Z55A2LVDQ.corp.qc" time="0.016">
+  <properties/>
+  <testcase name="parseExpressionsWithIntervals()" classname="CronExpressionProcessorTest" time="0.008"/>
+  <testcase name="extraSpaceInExpression()" classname="CronExpressionProcessorTest" time="0.002"/>
+  <testcase name="parseExpressionWithAllStars()" classname="CronExpressionProcessorTest" time="0.001"/>
+  <testcase name="cronExpressionContainsInvalidFormat()" classname="CronExpressionProcessorTest" time="0.0"/>
+  <testcase name="expressionHasNotEnoughentries()" classname="CronExpressionProcessorTest" time="0.001"/>
+  <testcase name="invalidInput()" classname="CronExpressionProcessorTest" time="0.001"/>
+  <testcase name="parseExpressionContainsAllFormat()" classname="CronExpressionProcessorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

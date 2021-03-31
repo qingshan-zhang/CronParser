@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ExpressionFormatTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2021-03-31T22:34:39" hostname="C02Z55A2LVDQ.corp.qc" time="0.063">
+  <properties/>
+  <testcase name="singleDigitValueFormat()" classname="ExpressionFormatTest" time="0.052"/>
+  <testcase name="emptyInput()" classname="ExpressionFormatTest" time="0.0"/>
+  <testcase name="multipleStars()" classname="ExpressionFormatTest" time="0.0"/>
+  <testcase name="singleValueFormat()" classname="ExpressionFormatTest" time="0.0"/>
+  <testcase name="allValuesFormat()" classname="ExpressionFormatTest" time="0.001"/>
+  <testcase name="rangeValuesFormat()" classname="ExpressionFormatTest" time="0.001"/>
+  <testcase name="invalidInput()" classname="ExpressionFormatTest" time="0.0"/>
+  <testcase name="decimalInInput()" classname="ExpressionFormatTest" time="0.0"/>
+  <testcase name="mixedFormat()" classname="ExpressionFormatTest" time="0.0"/>
+  <testcase name="nullInput()" classname="ExpressionFormatTest" time="0.001"/>
+  <testcase name="multipleAllowedChars()" classname="ExpressionFormatTest" time="0.0"/>
+  <testcase name="intervalValuesWithStarFormat()" classname="ExpressionFormatTest" time="0.0"/>
+  <testcase name="multipleValuesFormat()" classname="ExpressionFormatTest" time="0.001"/>
+  <testcase name="intervalValuesFormat()" classname="ExpressionFormatTest" time="0.0"/>
+  <testcase name="extraSeparate()" classname="ExpressionFormatTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
